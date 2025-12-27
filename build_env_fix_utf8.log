@@ -1,0 +1,62 @@
+﻿
+> ustudio-web@0.1.0 build
+> next build
+
+  ??Next.js 14.2.0
+  - Environments: .env
+
+   Creating an optimized production build ...
+node.exe : memory al
+location of 26640 by
+tes failed
+위치 줄:1 문자:1
++ & "C:\Program File
+s\nodejs/node.exe" "
+C:\Program Files\nod
+ejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo  
+            : NotS  
+  pecified: (memo   
+ ry allocation o    
+f 26640 bytes f    a
+iled:String) [    ],
+ RemoteExcept    ion
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+
+> Build error occurr
+ed
+Error: Jest worker e
+ncountered 1 child p
+rocess exceptions, e
+xceeding retry limit
+    at ChildProcessW
+orker.initialize (C:
+\vibe_code\novelsh\u
+studio-web\node_modu
+les\next\dist\compil
+ed\jest-worker\index
+.js:1:11580)
+    at ChildProcessW
+orker._onExit (C:\vi
+be_code\novelsh\ustu
+dio-web\node_modules
+\next\dist\compiled\
+jest-worker\index.js
+:1:12545)
+    at ChildProcess.
+emit (node:events:52
+0:35)
+    at ChildProcess.
+_handle.onexit (node
+:internal/child_proc
+ess:294:12) {
+  type: 'WorkerError
+'
+}

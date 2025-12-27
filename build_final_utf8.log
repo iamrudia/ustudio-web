@@ -1,0 +1,309 @@
+﻿
+> ustudio-web@0.1.0 build
+> next build
+
+  ??Next.js 14.2.0
+
+   Creating an optimized production build ...
+node.exe : <w> [webp
+ack.cache.PackFileCa
+cheStrategy] Skipped
+ not serializable ca
+che item 'Compilatio
+n/modules|C:\vibe_co
+de\novelsh\ustudio-w
+eb\node_modules\next
+\dist\build\webpack\
+loaders\css-loader\s
+rc\index.js??ruleSet
+[1].rules[13].oneOf[
+12].use[2]!C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\build\webpack
+\loaders\postcss-loa
+der\src\index.js??ru
+leSet[1].rules[13].o
+neOf[12].use[3]!C:\v
+ibe_code\novelsh\ust
+udio-web\app\globals
+.css': No serializer
+ registered for Post
+CSSSyntaxError
+위치 줄:1 문자:1
++ & "C:\Program File
+s\nodejs/node.exe" "
+C:\Program Files\nod
+ejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo  
+            : NotS  
+  pecified: (<w>    
+ [webpack.ca...t    
+CSSSyntaxError:    S
+tring) [], Rem    ot
+eException
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+<w> while serializin
+g webpack/lib/cache/
+PackFileCacheStrateg
+y.PackContentItems -
+> webpack/lib/Normal
+Module -> webpack/li
+b/ModuleBuildError -
+> PostCSSSyntaxError
+Failed to compile.
+
+./app/globals.css:1:
+1
+Syntax error: C:\vib
+e_code\novelsh\ustud
+io-web\app\globals.c
+ss The `border-borde
+r` class does not ex
+ist. If `border-bord
+er` is a custom clas
+s, make sure it is d
+efined within a `@la
+yer` directive.
+
+[1m[31m>[39m[22m
+[90m 1 | [39m[36m
+@tailwind[39m base
+[33m;[39m
+ [90m   | [39m[1m
+[31m^[39m[22m
+ [90m 2 | [39m[36
+m@tailwind[39m comp
+onents[33m;[39m
+ [90m 3 | [39m[36
+m@tailwind[39m util
+ities[33m;[39m
+
+./app/globals.css
+Syntax error: C:\vib
+e_code\novelsh\ustud
+io-web\app\globals.c
+ss The `border-borde
+r` class does not ex
+ist. If `border-bord
+er` is a custom clas
+s, make sure it is d
+efined within a `@la
+yer` directive. (1:1
+)
+
+[1m[31m>[39m[22m
+[90m 1 | [39m[36m
+@tailwind[39m base
+[33m;[39m
+ [90m   | [39m[1m
+[31m^[39m[22m
+ [90m 2 | [39m[36
+m@tailwind[39m comp
+onents[33m;[39m
+ [90m 3 | [39m[36
+m@tailwind[39m util
+ities[33m;[39m
+
+    at tryRunOrWebpa
+ckError (C:\vibe_cod
+e\novelsh\ustudio-we
+b\node_modules\next\
+dist\compiled\webpac
+k\bundle5.js:28:3129
+89)
+    at __webpack_req
+uire_module__ (C:\vi
+be_code\novelsh\ustu
+dio-web\node_modules
+\next\dist\compiled\
+webpack\bundle5.js:2
+8:131165)
+    at __nested_webp
+ack_require_153728__
+ (C:\vibe_code\novel
+sh\ustudio-web\node_
+modules\next\dist\co
+mpiled\webpack\bundl
+e5.js:28:130607)
+    at C:\vibe_code\
+novelsh\ustudio-web\
+node_modules\next\di
+st\compiled\webpack\
+bundle5.js:28:131454
+    at symbolIterato
+r (C:\vibe_code\nove
+lsh\ustudio-web\node
+_modules\next\dist\c
+ompiled\neo-async\as
+ync.js:1:14444)
+    at done (C:\vibe
+_code\novelsh\ustudi
+o-web\node_modules\n
+ext\dist\compiled\ne
+o-async\async.js:1:1
+4824)
+    at Hook.eval [as
+ callAsync] (eval at
+ create (C:\vibe_cod
+e\novelsh\ustudio-we
+b\node_modules\next\
+dist\compiled\webpac
+k\bundle5.js:13:2885
+8), <anonymous>:15:1
+)
+    at Hook.CALL_ASY
+NC_DELEGATE [as _cal
+lAsync] (C:\vibe_cod
+e\novelsh\ustudio-we
+b\node_modules\next\
+dist\compiled\webpac
+k\bundle5.js:13:2601
+2)
+    at C:\vibe_code\
+novelsh\ustudio-web\
+node_modules\next\di
+st\compiled\webpack\
+bundle5.js:28:130328
+    at symbolIterato
+r (C:\vibe_code\nove
+lsh\ustudio-web\node
+_modules\next\dist\c
+ompiled\neo-async\as
+ync.js:1:14402)
+-- inner error --
+Syntax error: C:\vib
+e_code\novelsh\ustud
+io-web\app\globals.c
+ss The `border-borde
+r` class does not ex
+ist. If `border-bord
+er` is a custom clas
+s, make sure it is d
+efined within a `@la
+yer` directive. (1:1
+)
+
+[1m[31m>[39m[22m
+[90m 1 | [39m[36m
+@tailwind[39m base
+[33m;[39m
+ [90m   | [39m[1m
+[31m^[39m[22m
+ [90m 2 | [39m[36
+m@tailwind[39m comp
+onents[33m;[39m
+ [90m 3 | [39m[36
+m@tailwind[39m util
+ities[33m;[39m
+
+    at Object.<anony
+mous> (C:\vibe_code\
+novelsh\ustudio-web\
+node_modules\next\di
+st\build\webpack\loa
+ders\css-loader\src\
+index.js??ruleSet[1]
+.rules[13].oneOf[12]
+.use[2]!C:\vibe_code
+\novelsh\ustudio-web
+\node_modules\next\d
+ist\build\webpack\lo
+aders\postcss-loader
+\src\index.js??ruleS
+et[1].rules[13].oneO
+f[12].use[3]!C:\vibe
+_code\novelsh\ustudi
+o-web\app\globals.cs
+s:1:7)
+    at C:\vibe_code\
+novelsh\ustudio-web\
+node_modules\next\di
+st\compiled\webpack\
+bundle5.js:28:922493
+    at Hook.eval [as
+ call] (eval at crea
+te (C:\vibe_code\nov
+elsh\ustudio-web\nod
+e_modules\next\dist\
+compiled\webpack\bun
+dle5.js:13:28636), <
+anonymous>:7:1)
+    at Hook.CALL_DEL
+EGATE [as _call] (C:
+\vibe_code\novelsh\u
+studio-web\node_modu
+les\next\dist\compil
+ed\webpack\bundle5.j
+s:13:25906)
+    at C:\vibe_code\
+novelsh\ustudio-web\
+node_modules\next\di
+st\compiled\webpack\
+bundle5.js:28:131198
+    at tryRunOrWebpa
+ckError (C:\vibe_cod
+e\novelsh\ustudio-we
+b\node_modules\next\
+dist\compiled\webpac
+k\bundle5.js:28:3129
+43)
+    at __webpack_req
+uire_module__ (C:\vi
+be_code\novelsh\ustu
+dio-web\node_modules
+\next\dist\compiled\
+webpack\bundle5.js:2
+8:131165)
+    at __nested_webp
+ack_require_153728__
+ (C:\vibe_code\novel
+sh\ustudio-web\node_
+modules\next\dist\co
+mpiled\webpack\bundl
+e5.js:28:130607)
+    at C:\vibe_code\
+novelsh\ustudio-web\
+node_modules\next\di
+st\compiled\webpack\
+bundle5.js:28:131454
+    at symbolIterato
+r (C:\vibe_code\nove
+lsh\ustudio-web\node
+_modules\next\dist\c
+ompiled\neo-async\as
+ync.js:1:14444)
+
+Generated code for C
+:\vibe_code\novelsh\
+ustudio-web\node_mod
+ules\next\dist\build
+\webpack\loaders\css
+-loader\src\index.js
+??ruleSet[1].rules[1
+3].oneOf[12].use[2]!
+C:\vibe_code\novelsh
+\ustudio-web\node_mo
+dules\next\dist\buil
+d\webpack\loaders\po
+stcss-loader\src\ind
+ex.js??ruleSet[1].ru
+les[13].oneOf[12].us
+e[3]!C:\vibe_code\no
+velsh\ustudio-web\ap
+p\globals.css
+
+Import trace for req
+uested module:
+./app/globals.css
+
+
+> Build failed becau
+se of webpack errors

@@ -1,0 +1,78 @@
+﻿
+> ustudio-web@0.1.0 build
+> next build
+
+  ??Next.js 14.2.0
+
+   Creating an optimized production build ...
+node.exe : Failed to
+ compile.
+위치 줄:1 문자:1
++ & "C:\Program File
+s\nodejs/node.exe" "
+C:\Program Files\nod
+ejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo  
+            : NotS  
+  pecified: (Fail   
+ ed to compile.:    
+String) [], Rem    o
+teException
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+
+./node_modules/@tipt
+ap/extension-bubble-
+menu/dist/index.js
+Module not found: Ca
+n't resolve '@floati
+ng-ui/dom'
+
+https://nextjs.org/d
+ocs/messages/module-
+not-found
+
+Import trace for req
+uested module:
+./node_modules/@tipt
+ap/react/dist/menus/
+index.js
+./components/editor/
+BubbleMenu.tsx
+./components/editor/
+BlogEditor.tsx
+./app/blog/write/pag
+e.tsx
+
+./node_modules/@tipt
+ap/extension-floatin
+g-menu/dist/index.js
+Module not found: Ca
+n't resolve '@floati
+ng-ui/dom'
+
+https://nextjs.org/d
+ocs/messages/module-
+not-found
+
+Import trace for req
+uested module:
+./node_modules/@tipt
+ap/react/dist/menus/
+index.js
+./components/editor/
+BubbleMenu.tsx
+./components/editor/
+BlogEditor.tsx
+./app/blog/write/pag
+e.tsx
+
+
+> Build failed becau
+se of webpack errors

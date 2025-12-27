@@ -1,0 +1,211 @@
+﻿
+> ustudio-web@0.1.0 build
+> next build
+
+  ??Next.js 14.2.0
+
+   Creating an optimized production build ...
+ ??Compiled successfully
+   Linting and checking validity of types ...
+
+./components/blog/PostViewer.tsx
+38:28  Warning: The ref value 'contentRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'contentRef.current' to a variable inside the effect, and use that variable in the cleanup function.  react-hooks/exhaustive-deps
+98:25  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules
+   Collecting page data ...
+   Generating static pages (0/8) ...
+   Generating static pages (2/8) 
+   Generating static pages (4/8) 
+   Generating static pages (6/8) 
+node.exe : Error: @s
+upabase/ssr: Your pr
+oject's URL and API 
+key are required to 
+create a Supabase cl
+ient!
+위치 줄:1 문자:1
++ & "C:\Program File
+s\nodejs/node.exe" "
+C:\Program Files\nod
+ejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo  
+            : NotSpe
+cified:     (Error: 
+@supabas...u    paba
+se client!:Strin    
+g) [], RemoteExcepti
+    on
+    + FullyQualified
+Erro    rId : Native
+CommandE    rror
+ 
+
+Check your Supabase 
+project's API settin
+gs to find these val
+ues
+
+https://supabase.com
+/dashboard/project/_
+/settings/api
+    at r$ (C:\vibe_c
+ode\novelsh\ustudio-
+web\.next\server\chu
+nks\929.js:37:54724)
+    at r (C:\vibe_co
+de\novelsh\ustudio-w
+eb\.next\server\chun
+ks\695.js:1:12866)
+    at l (C:\vibe_co
+de\novelsh\ustudio-w
+eb\.next\server\app\
+blog\write\page.js:1
+:2195)
+    at nj (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4625
+1)
+    at nM (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4757
+1)
+    at nN (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:6454
+6)
+    at nI (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4701
+0)
+    at nM (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4771
+7)
+    at nM (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:6154
+6)
+    at nN (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:6454
+6) {
+  digest: '163257900
+6'
+}
+
+Error occurred prere
+ndering page "/blog/
+write". Read more: h
+ttps://nextjs.org/do
+cs/messages/prerende
+r-error
+
+Error: @supabase/ssr
+: Your project's URL
+ and API key are req
+uired to create a Su
+pabase client!
+
+Check your Supabase 
+project's API settin
+gs to find these val
+ues
+
+https://supabase.com
+/dashboard/project/_
+/settings/api
+    at r$ (C:\vibe_c
+ode\novelsh\ustudio-
+web\.next\server\chu
+nks\929.js:37:54724)
+    at r (C:\vibe_co
+de\novelsh\ustudio-w
+eb\.next\server\chun
+ks\695.js:1:12866)
+    at l (C:\vibe_co
+de\novelsh\ustudio-w
+eb\.next\server\app\
+blog\write\page.js:1
+:2195)
+    at nj (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4625
+1)
+    at nM (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4757
+1)
+    at nN (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:6454
+6)
+    at nI (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4701
+0)
+    at nM (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:4771
+7)
+    at nM (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:6154
+6)
+    at nN (C:\vibe_c
+ode\novelsh\ustudio-
+web\node_modules\nex
+t\dist\compiled\next
+-server\app-page.run
+time.prod.js:12:6454
+6)
+ ??Generating static pages (8/8)
+
+> Export encountered
+ errors on following
+ paths:
+	/blog/write/page: /
+blog/write
